@@ -147,5 +147,3 @@ $route['issue'] = 'api/mobile/Issue/index';
 $route['issue_item'] = 'api/mobile/Issue/item';
 $route['update_issue'] = 'api/mobile/Issue/update';
 $route['exec_issue_transaction'] = 'api/mobile/Issue/exec_transaction';
-$route['stock_bal'] = 'api/mobile/Issue/stock_bal';
-$route['create_issue'] = 'api/mobile/Issue/create';
